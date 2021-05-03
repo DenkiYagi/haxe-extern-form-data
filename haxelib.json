@@ -8,5 +8,7 @@
     "classPath": "src/",
     "releasenote": "Release for form-data 4.0.0",
     "contributors": ["denkiyagi"],
-    "dependencies": {}
+    "dependencies": {
+        "hxnodejs": ""
+    }
 }
