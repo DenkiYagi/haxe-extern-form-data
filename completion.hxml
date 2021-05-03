@@ -1,0 +1,5 @@
+-p src
+-L hxnodejs
+js.npm.FormData
+--js dummy.js
+--no-output

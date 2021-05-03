@@ -1,0 +1,12 @@
+{
+    "name": "form-data",
+    "url": "https://github.com/DenkiYagi/haxe-extern-form-data",
+    "license": "MIT",
+    "tags": ["extern", "js", "nodejs", "form-data"],
+    "description": "Haxe extern definitions for form-data",
+    "version": "4.0.0",
+    "classPath": "src/",
+    "releasenote": "Release for form-data 4.0.0",
+    "contributors": ["denkiyagi"],
+    "dependencies": {}
+}
